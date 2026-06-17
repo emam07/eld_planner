@@ -1,7 +1,8 @@
 # ELD Trip Planner
 
 A full-stack web application for planning HOS (Hours of Service) compliant trips for property-carrying CMV (Commercial Motor Vehicle) drivers using the 70hr/8-day cycle.
-
+#video reference link for working in localhost as well as deployed link.
+```https://drive.google.com/file/d/1Lvu1NQSyVZpHbZpTNl9M6vcGV8o2G-Qp/view?usp=sharing```
 ## Features
 
 - **Interactive Route Planning**: Enter current location, pickup, and dropoff points
